@@ -35,7 +35,7 @@ Install the necessary ESP32 development environment (e.g., Arduino IDE with ESP3
 Clone this repository:
 ```
 Bash
-git clone https://github.com/your-username/your-project-repo.git
+git clone https://github.com/walkerviz/Intrusion-Detection-System-Using-Camera.git
 ```
 Open the project in your IDE and configure the network settings (e.g., IP address of your server).
 
