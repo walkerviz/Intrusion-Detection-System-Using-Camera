@@ -33,8 +33,10 @@ This project implements a camera-based intrusion detection system that provides 
 2. Software Installation
 Install the necessary ESP32 development environment (e.g., Arduino IDE with ESP32 board support).
 Clone this repository:
-> Bash
-> git clone https://github.com/your-username/your-project-repo.git
+```
+Bash
+git clone https://github.com/your-username/your-project-repo.git
+```
 Open the project in your IDE and configure the network settings (e.g., IP address of your server).
 
 3. Operation
@@ -44,6 +46,3 @@ Open the project in your IDE and configure the network settings (e.g., IP addres
 
 ## Contributing
 This project is open to contributions. If you'd like to improve the code, add new features, or fix bugs, please feel free to submit a pull request.
-
-## License
-This project is licensed under the [Your License Name] License - see the LICENSE.md file for details.
