@@ -45,4 +45,4 @@ Open the project in your IDE and configure the network settings (e.g., IP addres
 * Messages are sent and received using a WebSockets connection established between the ESP32 and the server.
 
 ## Contributing
-This project is open to contributions. If you'd like to improve the code, add new features, or fix bugs, please feel free to submit a pull request.
+This project is open to contributions. If you'd like to improve the code, add new features or fix bugs, please feel free to submit a pull request.
